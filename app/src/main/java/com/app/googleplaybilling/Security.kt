@@ -1,4 +1,4 @@
-package com.android.inputmethod.billing
+package com.app.googleplaybilling
 
 
 import android.content.Context
@@ -70,22 +70,5 @@ class Security {
         }
         return false
     }
-
-//    private fun isNetworkConnected(context: Context) : Boolean {
-//        val connectivityManager = context.getSystemService(Context.CONNECTIVITY_SERVICE) as ConnectivityManager
-//        var networkInfo : NetworkInfo? = null
-//
-//        try {
-//            networkInfo = connectivityManager.activeNetworkInfo
-//        } catch (e: Exception) {
-//            e.printStackTrace()
-//        }
-//
-//        if (networkInfo != null){
-//            return true
-//        }
-//
-//        return false
-//    }
 
 }

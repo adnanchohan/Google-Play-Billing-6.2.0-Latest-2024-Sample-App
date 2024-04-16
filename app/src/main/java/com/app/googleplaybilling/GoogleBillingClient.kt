@@ -1,4 +1,4 @@
-package com.android.inputmethod.billing
+package com.app.googleplaybilling
 
 import android.content.Context
 import android.util.Log
@@ -8,7 +8,6 @@ import com.android.billingclient.api.BillingClientStateListener
 import com.android.billingclient.api.BillingResult
 import com.android.billingclient.api.PurchasesUpdatedListener
 import com.android.billingclient.api.QueryPurchasesParams
-import com.app.googleplaybilling.Constant
 import java.util.concurrent.Executors
 
 

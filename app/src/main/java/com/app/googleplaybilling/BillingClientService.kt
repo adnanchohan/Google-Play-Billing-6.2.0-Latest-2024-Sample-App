@@ -1,4 +1,4 @@
-package com.android.inputmethod.billing
+package com.app.googleplaybilling
 
 import android.content.Context
 

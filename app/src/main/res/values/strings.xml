@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Google Play Billing</string>
+    <string name="subscribe_now">Subscribe Now</string>
+    <string name="purchase_now">Purchase Now</string>
+    <string name="loading_price">Loading…</string>
+    <string name="regular_price">"Regular pricing for %s %s"</string>
+    <string name="save_rs">Save %s</string>
+    <string name="continue_ads">Continue with Ads</string>
+    <string name="trial_days">days free trial</string>
+    <string name="pay_once_access_forever">lifetime</string>
+    <string name="one_month">Monthly</string>
+    <string name="one_year">Yearly</string>
+    <string name="lifetime_purchase">lifetime</string>
 </resources>
